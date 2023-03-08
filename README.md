@@ -1,4 +1,4 @@
-##  CHALLENGE FINAL - BOOTCAMP TESTING DE MINDHUB ##
+#  ** CHALLENGE FINAL - BOOTCAMP TESTING DE MINDHUB **
 
 ## Contenido
 1 - Documentación recibida (mails, consignas, etc)
