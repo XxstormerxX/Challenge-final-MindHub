@@ -1,6 +1,6 @@
-## CHALLENGE FINAL - BOOTCAMP TESTING DE MINDHUB
+### CHALLENGE FINAL - BOOTCAMP TESTING DE MINDHUB
 
-#Contenido
+# Contenido
 1 - Documentación recibida (mails, consignas, etc)
 2 - Minutas diarias
 3 - Informe final
