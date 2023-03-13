@@ -1,5 +1,5 @@
-#  CHALLENGE FINAL 
-## BOOTCAMP TESTING - MINDHUB
+#  BOOTCAMP TESTING - MINDHUB 
+## CHALLENGE FINAL
 
 ![Equipo3](https://github.com/mnzarria/challenge-final-mindhub/blob/main/Documentacion%20elaborada/Imagenes/Fondo%20pantalla%20presentacion.png)
 
@@ -7,19 +7,19 @@
 1 - Documentación recibida
 
 
-  Mails del equipo de desarrollo
+  -Mails del equipo de desarrollo
   
   
-  Consignas
+  -Consignas
 
 
 2 - Documentación elaborada
 
 
-  Evidencia de las pruebas ejecutadas
+  -Evidencia de las pruebas ejecutadas
   
   
-  Minutas diarias
+  -Minutas diarias
 
 
 3 - Informe final
