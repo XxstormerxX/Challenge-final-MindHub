@@ -5,12 +5,20 @@
 
 ### Contenido
 1 - Documentación recibida
+
+
   Mails del equipo de desarrollo
+  
+  
   Consignas
 
 
 2 - Documentación elaborada
+
+
   Evidencia de las pruebas ejecutadas
+  
+  
   Minutas diarias
 
 
