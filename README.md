@@ -1,7 +1,7 @@
 #  CHALLENGE FINAL 
 ## BOOTCAMP TESTING - MINDHUB
 
-!(/Documentacion elaborada/Imagenes/Fondo pantalla presentacion.png)
+!(https://github.com/mnzarria/challenge-final-mindhub/blob/main/Documentacion%20elaborada/Imagenes/Fondo%20pantalla%20presentacion.png)
 
 ### Contenido
 1 - Documentación recibida (mails, consignas, etc)
