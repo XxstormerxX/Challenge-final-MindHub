@@ -7,19 +7,22 @@
 1 - Documentación recibida
 
 
-  -Mails del equipo de desarrollo
+  - Mails del equipo de desarrollo
   
   
-  -Consignas
+  - Consignas
 
 
 2 - Documentación elaborada
 
 
-  -Evidencia de las pruebas ejecutadas
+  - Evidencia de las pruebas ejecutadas
   
   
-  -Minutas diarias
+  - Minutas diarias
 
 
 3 - Informe final
+
+
+4 - Presentación
